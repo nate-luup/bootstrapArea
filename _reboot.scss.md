@@ -8,3 +8,6 @@
  Normalization of HTML elements, manually forked from Normalize.css to remove styles targeting irrelevant browsers while applying new styles.
 
 <h2 id="source-code">源代码</h2>
+
+<h2 id="reference">参考地址</h2>
+- [初始化与CSS重置](https://code.z01.com/v4/content/reboot.html)
