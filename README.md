@@ -66,9 +66,8 @@ This repo will be used for learn bootstrap
 ```
 <h2 id="question-answer">Q&A</h2>
 
-```css
-TODO
-```
+- [TypeError on loading react-bootstrap](https://github.com/react-bootstrap/react-bootstrap/issues/4139)
+
 
 <h2 id="reference">参考地址</h2>
 
